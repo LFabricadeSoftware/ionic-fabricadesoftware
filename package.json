@@ -21,7 +21,7 @@
     "bundles": "^2.0.0",
     "call-number": "1.0.1",
     "core-js": "2.4.1",
-    "ionic-angular": "3.9.2",
+    "ionic-angular": "^3.9.10",
     "ionic-native": "^2.9.0",
     "keyboard": "^0.0.1",
     "ngx": "2.4.0",
@@ -30,6 +30,7 @@
     "rxjs-compat": "^6.5.5",
     "tslib": "1.11.1",
     "typescript": "2.3.4",
+    "umd": "^3.0.3",
     "zone.js": "0.8.12"
   }
 }
